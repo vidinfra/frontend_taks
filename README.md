@@ -7,7 +7,7 @@ You're tasked with implementing a **fully functional authentication flow** using
 ## 🔗 Resources
 
 - **API Docs**: [https://em80etvxo4.apidog.io](https://em80etvxo4.apidog.io)
-- **Figma UI**: [Vidinfra 2025 - Auth Flow](https://www.figma.com/proto/pZh3GGEKYQ5TjDWnsRWQSm/Vidinfra---2025?node-id=14023-33898&p=f&t=EMs1MG9aYaz8LehR-0)
+- **Figma UI**: [Vidinfra 2025 - Auth Flow](https://www.figma.com/design/TWyXpONDO87pZyLQfVlgmc/FE-Task?node-id=0-1&t=EJhP9Xi786eD4apy-1)
 
 ---
 
@@ -63,7 +63,7 @@ Use the following tools:
 - Auto-refresh token if expired when hitting `/auth/profiles`
 - Follow **SOLID principles**
 - Use **React Hook Form** for form state + validation
-- UI must match the [Figma design](https://www.figma.com/proto/pZh3GGEKYQ5TjDWnsRWQSm/Vidinfra---2025?node-id=14023-33898)
+- UI must match the [Figma design](https://www.figma.com/design/TWyXpONDO87pZyLQfVlgmc/FE-Task?node-id=0-1&t=EJhP9Xi786eD4apy-1)
 
 ---
 
